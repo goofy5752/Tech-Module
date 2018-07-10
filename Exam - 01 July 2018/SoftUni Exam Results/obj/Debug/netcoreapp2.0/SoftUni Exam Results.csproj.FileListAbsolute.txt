@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\bin\Debug\netcoreapp2.0\SoftUni Exam Results.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\bin\Debug\netcoreapp2.0\SoftUni Exam Results.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\bin\Debug\netcoreapp2.0\SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\bin\Debug\netcoreapp2.0\SoftUni Exam Results.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\bin\Debug\netcoreapp2.0\SoftUni Exam Results.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\obj\Debug\netcoreapp2.0\SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\obj\Debug\netcoreapp2.0\SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\obj\Debug\netcoreapp2.0\SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\obj\Debug\netcoreapp2.0\SoftUni Exam Results.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Exam Results\obj\Debug\netcoreapp2.0\SoftUni Exam Results.pdb

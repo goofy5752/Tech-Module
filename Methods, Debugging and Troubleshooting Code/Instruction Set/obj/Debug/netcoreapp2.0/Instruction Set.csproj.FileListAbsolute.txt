@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\bin\Debug\netcoreapp2.0\Instruction Set.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Instruction Set\obj\Debug\netcoreapp2.0\Instruction Set.pdb

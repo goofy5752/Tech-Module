@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\bin\Debug\netcoreapp2.0\Decode Radio Frequencies.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\bin\Debug\netcoreapp2.0\Decode Radio Frequencies.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\bin\Debug\netcoreapp2.0\Decode Radio Frequencies.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\bin\Debug\netcoreapp2.0\Decode Radio Frequencies.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\bin\Debug\netcoreapp2.0\Decode Radio Frequencies.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\obj\Debug\netcoreapp2.0\Decode Radio Frequencies.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\obj\Debug\netcoreapp2.0\Decode Radio Frequencies.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\obj\Debug\netcoreapp2.0\Decode Radio Frequencies.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\obj\Debug\netcoreapp2.0\Decode Radio Frequencies.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\obj\Debug\netcoreapp2.0\Decode Radio Frequencies.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Decode Radio Frequencies\obj\Debug\netcoreapp2.0\Decode Radio Frequencies.pdb

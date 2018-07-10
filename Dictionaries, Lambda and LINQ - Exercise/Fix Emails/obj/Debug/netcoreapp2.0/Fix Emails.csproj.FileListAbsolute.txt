@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\bin\Debug\netcoreapp2.0\Fix Emails.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Fix Emails\obj\Debug\netcoreapp2.0\Fix Emails.pdb

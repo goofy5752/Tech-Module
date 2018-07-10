@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\bin\Debug\netcoreapp2.0\Softuni Course Planning.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\bin\Debug\netcoreapp2.0\Softuni Course Planning.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\bin\Debug\netcoreapp2.0\Softuni Course Planning.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\bin\Debug\netcoreapp2.0\Softuni Course Planning.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\bin\Debug\netcoreapp2.0\Softuni Course Planning.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\obj\Debug\netcoreapp2.0\Softuni Course Planning.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\obj\Debug\netcoreapp2.0\Softuni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\obj\Debug\netcoreapp2.0\Softuni Course Planning.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\obj\Debug\netcoreapp2.0\Softuni Course Planning.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\obj\Debug\netcoreapp2.0\Softuni Course Planning.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\Softuni Course Planning\obj\Debug\netcoreapp2.0\Softuni Course Planning.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\bin\Debug\netcoreapp2.0\Word In Plural.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\bin\Debug\netcoreapp2.0\Word In Plural.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\bin\Debug\netcoreapp2.0\Word In Plural.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\bin\Debug\netcoreapp2.0\Word In Plural.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\bin\Debug\netcoreapp2.0\Word In Plural.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\obj\Debug\netcoreapp2.0\Word In Plural.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\obj\Debug\netcoreapp2.0\Word In Plural.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\obj\Debug\netcoreapp2.0\Word In Plural.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\obj\Debug\netcoreapp2.0\Word In Plural.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Word In Plural\obj\Debug\netcoreapp2.0\Word In Plural.pdb

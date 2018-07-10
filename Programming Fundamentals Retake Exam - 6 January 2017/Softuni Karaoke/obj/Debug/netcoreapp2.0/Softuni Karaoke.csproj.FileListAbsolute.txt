@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\bin\Debug\netcoreapp2.0\Softuni Karaoke.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 6 January 2017\Softuni Karaoke\obj\Debug\netcoreapp2.0\Softuni Karaoke.pdb

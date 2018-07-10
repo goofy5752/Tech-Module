@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\bin\Debug\netcoreapp2.0\Debugging Exercise. Substring.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\bin\Debug\netcoreapp2.0\Debugging Exercise. Substring.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\bin\Debug\netcoreapp2.0\Debugging Exercise. Substring.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\bin\Debug\netcoreapp2.0\Debugging Exercise. Substring.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\bin\Debug\netcoreapp2.0\Debugging Exercise. Substring.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\obj\Debug\netcoreapp2.0\Debugging Exercise. Substring.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\obj\Debug\netcoreapp2.0\Debugging Exercise. Substring.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\obj\Debug\netcoreapp2.0\Debugging Exercise. Substring.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\obj\Debug\netcoreapp2.0\Debugging Exercise. Substring.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Debugging Exercise. Substring\obj\Debug\netcoreapp2.0\Debugging Exercise. Substring.pdb

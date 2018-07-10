@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\bin\Debug\netcoreapp2.0\Legendary Farming.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\bin\Debug\netcoreapp2.0\Legendary Farming.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\bin\Debug\netcoreapp2.0\Legendary Farming.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\bin\Debug\netcoreapp2.0\Legendary Farming.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\bin\Debug\netcoreapp2.0\Legendary Farming.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\obj\Debug\netcoreapp2.0\Legendary Farming.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\obj\Debug\netcoreapp2.0\Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\obj\Debug\netcoreapp2.0\Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\obj\Debug\netcoreapp2.0\Legendary Farming.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\obj\Debug\netcoreapp2.0\Legendary Farming.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Legendary Farming\obj\Debug\netcoreapp2.0\Legendary Farming.pdb

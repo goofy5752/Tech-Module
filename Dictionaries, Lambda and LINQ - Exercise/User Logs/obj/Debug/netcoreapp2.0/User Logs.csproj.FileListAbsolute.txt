@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\bin\Debug\netcoreapp2.0\User Logs.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\bin\Debug\netcoreapp2.0\User Logs.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\bin\Debug\netcoreapp2.0\User Logs.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\bin\Debug\netcoreapp2.0\User Logs.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\bin\Debug\netcoreapp2.0\User Logs.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\obj\Debug\netcoreapp2.0\User Logs.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\obj\Debug\netcoreapp2.0\User Logs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\obj\Debug\netcoreapp2.0\User Logs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\obj\Debug\netcoreapp2.0\User Logs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\obj\Debug\netcoreapp2.0\User Logs.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\User Logs\obj\Debug\netcoreapp2.0\User Logs.pdb

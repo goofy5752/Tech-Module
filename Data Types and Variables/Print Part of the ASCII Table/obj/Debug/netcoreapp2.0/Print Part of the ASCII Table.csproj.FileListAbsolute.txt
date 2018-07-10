@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\Print Part of the ASCII Table.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\Print Part of the ASCII Table.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\Print Part of the ASCII Table.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\Print Part of the ASCII Table.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\bin\Debug\netcoreapp2.0\Print Part of the ASCII Table.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\Print Part of the ASCII Table.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\Print Part of the ASCII Table.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Print Part of the ASCII Table\obj\Debug\netcoreapp2.0\Print Part of the ASCII Table.pdb

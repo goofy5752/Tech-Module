@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+C:\Users\Admin\source\repos\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb

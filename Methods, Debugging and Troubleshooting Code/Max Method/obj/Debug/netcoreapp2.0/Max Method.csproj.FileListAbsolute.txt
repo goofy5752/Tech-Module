@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\bin\Debug\netcoreapp2.0\Max Method.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Max Method\obj\Debug\netcoreapp2.0\Max Method.pdb

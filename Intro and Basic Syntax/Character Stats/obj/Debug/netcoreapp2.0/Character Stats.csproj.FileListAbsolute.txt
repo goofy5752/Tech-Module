@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\bin\Debug\netcoreapp2.0\Character Stats.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Character Stats\obj\Debug\netcoreapp2.0\Character Stats.pdb

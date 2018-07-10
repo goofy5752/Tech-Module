@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\bin\Debug\netcoreapp2.0\Memory View.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\bin\Debug\netcoreapp2.0\Memory View.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\bin\Debug\netcoreapp2.0\Memory View.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\bin\Debug\netcoreapp2.0\Memory View.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\bin\Debug\netcoreapp2.0\Memory View.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\obj\Debug\netcoreapp2.0\Memory View.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\obj\Debug\netcoreapp2.0\Memory View.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\obj\Debug\netcoreapp2.0\Memory View.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\obj\Debug\netcoreapp2.0\Memory View.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\obj\Debug\netcoreapp2.0\Memory View.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Memory View\obj\Debug\netcoreapp2.0\Memory View.pdb

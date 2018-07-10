@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\bin\Debug\netcoreapp2.0\Snowballs.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowballs\obj\Debug\netcoreapp2.0\Snowballs.pdb

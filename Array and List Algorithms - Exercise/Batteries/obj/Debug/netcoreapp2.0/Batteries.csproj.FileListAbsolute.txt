@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\bin\Debug\netcoreapp2.0\Batteries.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\bin\Debug\netcoreapp2.0\Batteries.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\bin\Debug\netcoreapp2.0\Batteries.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\bin\Debug\netcoreapp2.0\Batteries.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\bin\Debug\netcoreapp2.0\Batteries.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\obj\Debug\netcoreapp2.0\Batteries.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\obj\Debug\netcoreapp2.0\Batteries.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\obj\Debug\netcoreapp2.0\Batteries.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\obj\Debug\netcoreapp2.0\Batteries.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\obj\Debug\netcoreapp2.0\Batteries.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Batteries\obj\Debug\netcoreapp2.0\Batteries.csprojAssemblyReference.cache

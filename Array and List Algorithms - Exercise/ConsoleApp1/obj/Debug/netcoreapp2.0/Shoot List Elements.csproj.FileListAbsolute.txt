@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.deps.json
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.runtimeconfig.json
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.dll
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.pdb
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.dll
+C:\Users\Admin\source\repos\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\bin\Debug\netcoreapp2.0\Shoot List Elements.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\ConsoleApp1\obj\Debug\netcoreapp2.0\Shoot List Elements.pdb

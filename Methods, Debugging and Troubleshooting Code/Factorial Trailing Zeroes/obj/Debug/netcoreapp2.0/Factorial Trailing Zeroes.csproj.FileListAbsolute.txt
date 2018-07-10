@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\Factorial Trailing Zeroes.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\Factorial Trailing Zeroes.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\Factorial Trailing Zeroes.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\Factorial Trailing Zeroes.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\Factorial Trailing Zeroes.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\Factorial Trailing Zeroes.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\Factorial Trailing Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\Factorial Trailing Zeroes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\Factorial Trailing Zeroes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\Factorial Trailing Zeroes.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\Factorial Trailing Zeroes.pdb

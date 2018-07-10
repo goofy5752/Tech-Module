@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\bin\Debug\netcoreapp2.0\Raindrops.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\bin\Debug\netcoreapp2.0\Raindrops.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\bin\Debug\netcoreapp2.0\Raindrops.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\bin\Debug\netcoreapp2.0\Raindrops.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\bin\Debug\netcoreapp2.0\Raindrops.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\obj\Debug\netcoreapp2.0\Raindrops.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\obj\Debug\netcoreapp2.0\Raindrops.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\obj\Debug\netcoreapp2.0\Raindrops.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\obj\Debug\netcoreapp2.0\Raindrops.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\obj\Debug\netcoreapp2.0\Raindrops.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Raindrops\obj\Debug\netcoreapp2.0\Raindrops.pdb

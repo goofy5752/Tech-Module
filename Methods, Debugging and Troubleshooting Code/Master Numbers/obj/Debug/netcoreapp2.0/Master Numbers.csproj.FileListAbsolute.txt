@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\bin\Debug\netcoreapp2.0\Master Numbers.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\bin\Debug\netcoreapp2.0\Master Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\bin\Debug\netcoreapp2.0\Master Numbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\bin\Debug\netcoreapp2.0\Master Numbers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\bin\Debug\netcoreapp2.0\Master Numbers.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\obj\Debug\netcoreapp2.0\Master Numbers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\obj\Debug\netcoreapp2.0\Master Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\obj\Debug\netcoreapp2.0\Master Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\obj\Debug\netcoreapp2.0\Master Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\obj\Debug\netcoreapp2.0\Master Numbers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Master Numbers\obj\Debug\netcoreapp2.0\Master Numbers.pdb

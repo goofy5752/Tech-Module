@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\bin\Debug\netcoreapp2.0\Hello, Name!.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\bin\Debug\netcoreapp2.0\Hello, Name!.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\bin\Debug\netcoreapp2.0\Hello, Name!.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\bin\Debug\netcoreapp2.0\Hello, Name!.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\bin\Debug\netcoreapp2.0\Hello, Name!.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\obj\Debug\netcoreapp2.0\Hello, Name!.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\obj\Debug\netcoreapp2.0\Hello, Name!.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\obj\Debug\netcoreapp2.0\Hello, Name!.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\obj\Debug\netcoreapp2.0\Hello, Name!.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\obj\Debug\netcoreapp2.0\Hello, Name!.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Hello, Name!\obj\Debug\netcoreapp2.0\Hello, Name!.pdb

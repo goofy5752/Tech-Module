@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\bin\Debug\netcoreapp2.0\Restaurant Discount.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\bin\Debug\netcoreapp2.0\Restaurant Discount.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\bin\Debug\netcoreapp2.0\Restaurant Discount.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\bin\Debug\netcoreapp2.0\Restaurant Discount.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\bin\Debug\netcoreapp2.0\Restaurant Discount.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\obj\Debug\netcoreapp2.0\Restaurant Discount.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\obj\Debug\netcoreapp2.0\Restaurant Discount.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\obj\Debug\netcoreapp2.0\Restaurant Discount.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\obj\Debug\netcoreapp2.0\Restaurant Discount.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\obj\Debug\netcoreapp2.0\Restaurant Discount.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Restaurant Discount\obj\Debug\netcoreapp2.0\Restaurant Discount.pdb

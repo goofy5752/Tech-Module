@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\bin\Debug\netcoreapp2.0\Population Counter.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Population Counter\obj\Debug\netcoreapp2.0\Population Counter.pdb

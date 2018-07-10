@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\bin\Debug\netcoreapp2.0\Exchange Variable Values.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Exchange Variable Values\obj\Debug\netcoreapp2.0\Exchange Variable Values.pdb

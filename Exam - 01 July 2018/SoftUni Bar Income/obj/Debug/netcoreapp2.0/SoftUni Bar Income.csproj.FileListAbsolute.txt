@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\bin\Debug\netcoreapp2.0\SoftUni Bar Income.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Bar Income\obj\Debug\netcoreapp2.0\SoftUni Bar Income.pdb

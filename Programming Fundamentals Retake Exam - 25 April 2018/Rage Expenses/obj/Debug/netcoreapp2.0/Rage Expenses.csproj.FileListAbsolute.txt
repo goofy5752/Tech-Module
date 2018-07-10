@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\bin\Debug\netcoreapp2.0\Rage Expenses.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Rage Expenses\obj\Debug\netcoreapp2.0\Rage Expenses.pdb

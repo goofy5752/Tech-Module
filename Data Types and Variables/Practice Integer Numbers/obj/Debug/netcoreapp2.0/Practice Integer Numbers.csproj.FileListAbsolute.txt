@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\bin\Debug\netcoreapp2.0\Practice Integer Numbers.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\bin\Debug\netcoreapp2.0\Practice Integer Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\bin\Debug\netcoreapp2.0\Practice Integer Numbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\bin\Debug\netcoreapp2.0\Practice Integer Numbers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\bin\Debug\netcoreapp2.0\Practice Integer Numbers.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\obj\Debug\netcoreapp2.0\Practice Integer Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\obj\Debug\netcoreapp2.0\Practice Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\obj\Debug\netcoreapp2.0\Practice Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\obj\Debug\netcoreapp2.0\Practice Integer Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\obj\Debug\netcoreapp2.0\Practice Integer Numbers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Integer Numbers\obj\Debug\netcoreapp2.0\Practice Integer Numbers.pdb

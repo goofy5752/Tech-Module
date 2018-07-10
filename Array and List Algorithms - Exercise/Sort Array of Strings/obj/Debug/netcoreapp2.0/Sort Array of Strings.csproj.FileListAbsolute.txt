@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\bin\Debug\netcoreapp2.0\Sort Array of Strings.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\bin\Debug\netcoreapp2.0\Sort Array of Strings.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\bin\Debug\netcoreapp2.0\Sort Array of Strings.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\bin\Debug\netcoreapp2.0\Sort Array of Strings.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\bin\Debug\netcoreapp2.0\Sort Array of Strings.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\obj\Debug\netcoreapp2.0\Sort Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\obj\Debug\netcoreapp2.0\Sort Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\obj\Debug\netcoreapp2.0\Sort Array of Strings.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\obj\Debug\netcoreapp2.0\Sort Array of Strings.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Sort Array of Strings\obj\Debug\netcoreapp2.0\Sort Array of Strings.pdb

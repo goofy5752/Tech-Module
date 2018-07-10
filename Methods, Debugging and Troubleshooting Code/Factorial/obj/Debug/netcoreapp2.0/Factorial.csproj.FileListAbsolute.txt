@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\bin\Debug\netcoreapp2.0\Factorial.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\bin\Debug\netcoreapp2.0\Factorial.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\bin\Debug\netcoreapp2.0\Factorial.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\obj\Debug\netcoreapp2.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\obj\Debug\netcoreapp2.0\Factorial.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Factorial\obj\Debug\netcoreapp2.0\Factorial.pdb

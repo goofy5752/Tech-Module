@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\bin\Debug\netcoreapp2.0\Triple Sum.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Lab\Triple Sum\obj\Debug\netcoreapp2.0\Triple Sum.pdb

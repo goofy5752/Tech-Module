@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\bin\Debug\netcoreapp2.0\Choose a Drink 2.0.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\bin\Debug\netcoreapp2.0\Choose a Drink 2.0.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\bin\Debug\netcoreapp2.0\Choose a Drink 2.0.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\bin\Debug\netcoreapp2.0\Choose a Drink 2.0.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\bin\Debug\netcoreapp2.0\Choose a Drink 2.0.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\obj\Debug\netcoreapp2.0\Choose a Drink 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\obj\Debug\netcoreapp2.0\Choose a Drink 2.0.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\obj\Debug\netcoreapp2.0\Choose a Drink 2.0.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\obj\Debug\netcoreapp2.0\Choose a Drink 2.0.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Choose a Drink 2.0\obj\Debug\netcoreapp2.0\Choose a Drink 2.0.pdb

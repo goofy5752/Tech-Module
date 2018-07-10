@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\bin\Debug\netcoreapp2.0\Сръбско Unleashed.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Сръбско Unleashed\obj\Debug\netcoreapp2.0\Сръбско Unleashed.pdb

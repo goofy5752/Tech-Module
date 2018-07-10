@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\bin\Debug\netcoreapp2.0\Anonymous Threat.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\bin\Debug\netcoreapp2.0\Anonymous Threat.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\bin\Debug\netcoreapp2.0\Anonymous Threat.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\bin\Debug\netcoreapp2.0\Anonymous Threat.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\bin\Debug\netcoreapp2.0\Anonymous Threat.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\obj\Debug\netcoreapp2.0\Anonymous Threat.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\obj\Debug\netcoreapp2.0\Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\obj\Debug\netcoreapp2.0\Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\obj\Debug\netcoreapp2.0\Anonymous Threat.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\obj\Debug\netcoreapp2.0\Anonymous Threat.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 05 November 2017\Anonymous Threat\obj\Debug\netcoreapp2.0\Anonymous Threat.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\bin\Debug\netcoreapp2.0\Magic Letter.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Magic Letter\obj\Debug\netcoreapp2.0\Magic Letter.pdb

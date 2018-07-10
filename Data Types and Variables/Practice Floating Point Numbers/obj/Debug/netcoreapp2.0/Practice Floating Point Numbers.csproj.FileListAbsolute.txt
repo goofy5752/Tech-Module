@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\Practice Floating Point Numbers.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\Practice Floating Point Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\Practice Floating Point Numbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\Practice Floating Point Numbers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\bin\Debug\netcoreapp2.0\Practice Floating Point Numbers.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\Practice Floating Point Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\Practice Floating Point Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\Practice Floating Point Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\Practice Floating Point Numbers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Practice Floating Point Numbers\obj\Debug\netcoreapp2.0\Practice Floating Point Numbers.pdb

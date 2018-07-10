@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\bin\Debug\netcoreapp2.0\SoftUni Reception.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam - 01 July 2018\SoftUni Reception\obj\Debug\netcoreapp2.0\SoftUni Reception.pdb

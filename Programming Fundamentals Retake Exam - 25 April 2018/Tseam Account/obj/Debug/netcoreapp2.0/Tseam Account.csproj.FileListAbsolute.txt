@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\bin\Debug\netcoreapp2.0\Tseam Account.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\Tseam Account\obj\Debug\netcoreapp2.0\Tseam Account.pdb

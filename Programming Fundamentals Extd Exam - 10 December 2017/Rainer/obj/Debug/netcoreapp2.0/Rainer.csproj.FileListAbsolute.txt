@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\bin\Debug\netcoreapp2.0\Rainer.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\bin\Debug\netcoreapp2.0\Rainer.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\bin\Debug\netcoreapp2.0\Rainer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\bin\Debug\netcoreapp2.0\Rainer.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\bin\Debug\netcoreapp2.0\Rainer.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\obj\Debug\netcoreapp2.0\Rainer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\obj\Debug\netcoreapp2.0\Rainer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\obj\Debug\netcoreapp2.0\Rainer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\obj\Debug\netcoreapp2.0\Rainer.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\obj\Debug\netcoreapp2.0\Rainer.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Extd Exam - 10 December 2017\Rainer\obj\Debug\netcoreapp2.0\Rainer.csprojAssemblyReference.cache

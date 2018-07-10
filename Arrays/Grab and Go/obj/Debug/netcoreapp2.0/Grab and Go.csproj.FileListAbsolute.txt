@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\bin\Debug\netcoreapp2.0\Grab and Go.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Grab and Go\obj\Debug\netcoreapp2.0\Grab and Go.csprojAssemblyReference.cache

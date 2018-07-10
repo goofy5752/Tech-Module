@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\bin\Debug\netcoreapp2.0\Rectangle Area.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\bin\Debug\netcoreapp2.0\Rectangle Area.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\bin\Debug\netcoreapp2.0\Rectangle Area.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\bin\Debug\netcoreapp2.0\Rectangle Area.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\bin\Debug\netcoreapp2.0\Rectangle Area.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\obj\Debug\netcoreapp2.0\Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\obj\Debug\netcoreapp2.0\Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\obj\Debug\netcoreapp2.0\Rectangle Area.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\obj\Debug\netcoreapp2.0\Rectangle Area.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Rectangle Area\obj\Debug\netcoreapp2.0\Rectangle Area.pdb

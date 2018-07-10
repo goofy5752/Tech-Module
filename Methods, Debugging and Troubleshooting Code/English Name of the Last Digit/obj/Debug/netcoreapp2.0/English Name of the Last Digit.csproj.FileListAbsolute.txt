@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\bin\Debug\netcoreapp2.0\English Name of the Last Digit.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\bin\Debug\netcoreapp2.0\English Name of the Last Digit.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\bin\Debug\netcoreapp2.0\English Name of the Last Digit.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\bin\Debug\netcoreapp2.0\English Name of the Last Digit.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\bin\Debug\netcoreapp2.0\English Name of the Last Digit.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\obj\Debug\netcoreapp2.0\English Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\obj\Debug\netcoreapp2.0\English Name of the Last Digit.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\obj\Debug\netcoreapp2.0\English Name of the Last Digit.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\obj\Debug\netcoreapp2.0\English Name of the Last Digit.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\English Name of the Last Digit\obj\Debug\netcoreapp2.0\English Name of the Last Digit.pdb

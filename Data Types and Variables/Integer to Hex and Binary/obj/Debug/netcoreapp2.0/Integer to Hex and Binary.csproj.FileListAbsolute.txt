@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\bin\Debug\netcoreapp2.0\Integer to Hex and Binary.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Integer to Hex and Binary\obj\Debug\netcoreapp2.0\Integer to Hex and Binary.pdb

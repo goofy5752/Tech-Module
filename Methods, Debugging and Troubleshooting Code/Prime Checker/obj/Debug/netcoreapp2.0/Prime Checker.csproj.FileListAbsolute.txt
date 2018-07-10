@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\bin\Debug\netcoreapp2.0\Prime Checker.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Prime Checker\obj\Debug\netcoreapp2.0\Prime Checker.pdb

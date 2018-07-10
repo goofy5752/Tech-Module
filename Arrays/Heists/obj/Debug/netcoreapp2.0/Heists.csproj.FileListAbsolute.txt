@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\bin\Debug\netcoreapp2.0\Heists.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\bin\Debug\netcoreapp2.0\Heists.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\bin\Debug\netcoreapp2.0\Heists.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\bin\Debug\netcoreapp2.0\Heists.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\bin\Debug\netcoreapp2.0\Heists.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\obj\Debug\netcoreapp2.0\Heists.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\obj\Debug\netcoreapp2.0\Heists.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\obj\Debug\netcoreapp2.0\Heists.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\obj\Debug\netcoreapp2.0\Heists.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\obj\Debug\netcoreapp2.0\Heists.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays\Heists\obj\Debug\netcoreapp2.0\Heists.pdb

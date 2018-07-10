@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\bin\Debug\netcoreapp2.0\Cube Properties.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Methods, Debugging and Troubleshooting Code\Cube Properties\obj\Debug\netcoreapp2.0\Cube Properties.pdb

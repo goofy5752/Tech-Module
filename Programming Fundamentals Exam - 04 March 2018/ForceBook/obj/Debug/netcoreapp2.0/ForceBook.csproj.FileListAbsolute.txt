@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\bin\Debug\netcoreapp2.0\ForceBook.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Exam - 04 March 2018\ForceBook\obj\Debug\netcoreapp2.0\ForceBook.csprojAssemblyReference.cache

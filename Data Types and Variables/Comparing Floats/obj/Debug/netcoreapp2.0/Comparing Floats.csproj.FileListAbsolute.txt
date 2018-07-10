@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\bin\Debug\netcoreapp2.0\Comparing Floats.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Comparing Floats\obj\Debug\netcoreapp2.0\Comparing Floats.pdb

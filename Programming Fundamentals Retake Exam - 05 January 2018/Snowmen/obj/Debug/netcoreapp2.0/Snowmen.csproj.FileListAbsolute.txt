@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 05 January 2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.pdb

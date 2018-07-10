@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\bin\Debug\netcoreapp2.0\Average Character Delimiter.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\bin\Debug\netcoreapp2.0\Average Character Delimiter.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\bin\Debug\netcoreapp2.0\Average Character Delimiter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\bin\Debug\netcoreapp2.0\Average Character Delimiter.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\bin\Debug\netcoreapp2.0\Average Character Delimiter.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\obj\Debug\netcoreapp2.0\Average Character Delimiter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\obj\Debug\netcoreapp2.0\Average Character Delimiter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\obj\Debug\netcoreapp2.0\Average Character Delimiter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\obj\Debug\netcoreapp2.0\Average Character Delimiter.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Array and List Algorithms - Exercise\Average Character Delimiter\obj\Debug\netcoreapp2.0\Average Character Delimiter.pdb

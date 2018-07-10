@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\bin\Debug\netcoreapp2.0\Cake Ingredients.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Cake Ingredients\obj\Debug\netcoreapp2.0\Cake Ingredients.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\bin\Debug\netcoreapp2.0\Beverage Labels.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Beverage Labels\obj\Debug\netcoreapp2.0\Beverage Labels.pdb

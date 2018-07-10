@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\bin\Debug\netcoreapp2.0\Pokemon Dont'Go.deps.json
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\bin\Debug\netcoreapp2.0\Pokemon Dont'Go.runtimeconfig.json
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\bin\Debug\netcoreapp2.0\Pokemon Dont'Go.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\bin\Debug\netcoreapp2.0\Pokemon Dont'Go.dll
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\bin\Debug\netcoreapp2.0\Pokemon Dont'Go.pdb
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\obj\Debug\netcoreapp2.0\Pokemon Dont'Go.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\obj\Debug\netcoreapp2.0\Pokemon Dont'Go.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\obj\Debug\netcoreapp2.0\Pokemon Dont'Go.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\obj\Debug\netcoreapp2.0\Pokemon Dont'Go.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\obj\Debug\netcoreapp2.0\Pokemon Dont'Go.dll
+C:\Users\Admin\source\repos\Programming Fundamentals Exam - 09 July 2017\Pokemon Dont'Go\obj\Debug\netcoreapp2.0\Pokemon Dont'Go.pdb

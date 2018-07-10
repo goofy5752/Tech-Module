@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\bin\Debug\netcoreapp2.0\Vowel or Digit.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Vowel or Digit\obj\Debug\netcoreapp2.0\Vowel or Digit.pdb

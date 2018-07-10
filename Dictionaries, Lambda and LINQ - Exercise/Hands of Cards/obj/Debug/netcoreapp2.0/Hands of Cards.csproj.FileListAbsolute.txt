@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\obj\Debug\netcoreapp2.0\Hands of Cards.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\obj\Debug\netcoreapp2.0\Hands of Cards.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\obj\Debug\netcoreapp2.0\Hands of Cards.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\obj\Debug\netcoreapp2.0\Hands of Cards.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\bin\Debug\netcoreapp2.0\Hands of Cards.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\bin\Debug\netcoreapp2.0\Hands of Cards.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\bin\Debug\netcoreapp2.0\Hands of Cards.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\bin\Debug\netcoreapp2.0\Hands of Cards.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\bin\Debug\netcoreapp2.0\Hands of Cards.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\obj\Debug\netcoreapp2.0\Hands of Cards.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Hands of Cards\obj\Debug\netcoreapp2.0\Hands of Cards.pdb

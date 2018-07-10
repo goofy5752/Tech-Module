@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\bin\Debug\netcoreapp2.0\Miles To Kilometers.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\bin\Debug\netcoreapp2.0\Miles To Kilometers.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\bin\Debug\netcoreapp2.0\Miles To Kilometers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\bin\Debug\netcoreapp2.0\Miles To Kilometers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\bin\Debug\netcoreapp2.0\Miles To Kilometers.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\obj\Debug\netcoreapp2.0\Miles To Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\obj\Debug\netcoreapp2.0\Miles To Kilometers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\obj\Debug\netcoreapp2.0\Miles To Kilometers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\obj\Debug\netcoreapp2.0\Miles To Kilometers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Intro and Basic Syntax\Miles To Kilometers\obj\Debug\netcoreapp2.0\Miles To Kilometers.pdb

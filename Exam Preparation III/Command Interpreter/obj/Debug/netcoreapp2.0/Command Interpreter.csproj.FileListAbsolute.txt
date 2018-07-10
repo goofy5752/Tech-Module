@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\bin\Debug\netcoreapp2.0\Command Interpreter.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Exam Preparation III\Command Interpreter\obj\Debug\netcoreapp2.0\Command Interpreter.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\Variable in Hexadecimal Format.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\Variable in Hexadecimal Format.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\Variable in Hexadecimal Format.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\Variable in Hexadecimal Format.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\Variable in Hexadecimal Format.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\Variable in Hexadecimal Format.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\Variable in Hexadecimal Format.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\Variable in Hexadecimal Format.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\Variable in Hexadecimal Format.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\Variable in Hexadecimal Format.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Data Types and Variables\Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\Variable in Hexadecimal Format.csprojAssemblyReference.cache

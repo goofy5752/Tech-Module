@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\bin\Debug\netcoreapp2.0\Phonebook Upgrade.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Dictionaries, Lambda and LINQ - Exercise\Phonebook Upgrade\obj\Debug\netcoreapp2.0\Phonebook Upgrade.pdb

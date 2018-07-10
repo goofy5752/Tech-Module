@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\bin\Debug\netcoreapp2.0\MOBA Challenger.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Programming Fundamentals Retake Exam - 25 April 2018\MOBA Challenger\obj\Debug\netcoreapp2.0\MOBA Challenger.pdb

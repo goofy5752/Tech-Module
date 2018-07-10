@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\bin\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\bin\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\bin\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\bin\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\bin\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\obj\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\obj\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\obj\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\obj\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\obj\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Methods, Debugging and Troubleshooting Code\Be Positive\obj\Debug\netcoreapp2.0\Debugging Exercise. Be Positive.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\bin\Debug\netcoreapp2.0\Neighbour Wars.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Conditional Statements and Loops\Neighbour Wars\obj\Debug\netcoreapp2.0\Neighbour Wars.pdb

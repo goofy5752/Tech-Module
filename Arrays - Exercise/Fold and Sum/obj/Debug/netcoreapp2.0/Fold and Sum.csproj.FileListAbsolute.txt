@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\bin\Debug\netcoreapp2.0\Fold and Sum.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\bin\Debug\netcoreapp2.0\Fold and Sum.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\bin\Debug\netcoreapp2.0\Fold and Sum.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\bin\Debug\netcoreapp2.0\Fold and Sum.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\bin\Debug\netcoreapp2.0\Fold and Sum.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\obj\Debug\netcoreapp2.0\Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\obj\Debug\netcoreapp2.0\Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\obj\Debug\netcoreapp2.0\Fold and Sum.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\obj\Debug\netcoreapp2.0\Fold and Sum.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\Tech Module\Arrays - Exercise\Fold and Sum\obj\Debug\netcoreapp2.0\Fold and Sum.pdb
