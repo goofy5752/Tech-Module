@@ -37,9 +37,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print Part of the ASCII Tab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Different Integers Size", "Different Integers Size\Different Integers Size.csproj", "{3C5D575E-B211-4FB6-BF7F-ADBE4D438C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparing Floats", "Comparing Floats\Comparing Floats.csproj", "{646A0CFA-A0C7-4599-9ED5-6880AAC0CA49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comparing Floats", "Comparing Floats\Comparing Floats.csproj", "{646A0CFA-A0C7-4599-9ED5-6880AAC0CA49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thea the Photographer", "Thea the Photographer\Thea the Photographer.csproj", "{17FACA47-2746-47E7-B5B3-68327792A172}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thea the Photographer", "Thea the Photographer\Thea the Photographer.csproj", "{17FACA47-2746-47E7-B5B3-68327792A172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poke Mon", "Poke Mon\Poke Mon.csproj", "{2B4B8A26-564F-4B6C-BC1D-B5852666588C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resurrection", "Resurrection\Resurrection.csproj", "{A7507243-4EC8-40C3-8402-32B09BE3AC68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WormTest", "WormTest\WormTest.csproj", "{6C87AA8B-EDD0-4D34-97D1-7C2328D997FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet Wings", "Hornet Wings\Hornet Wings.csproj", "{C6B46D9A-E4F5-4372-9697-C20AB60C1FC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Downsite", "Anonymous Downsite\Anonymous Downsite.csproj", "{F571033A-3925-4AD5-9744-D5071D14645D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +133,26 @@ Global
 		{17FACA47-2746-47E7-B5B3-68327792A172}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17FACA47-2746-47E7-B5B3-68327792A172}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17FACA47-2746-47E7-B5B3-68327792A172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4B8A26-564F-4B6C-BC1D-B5852666588C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4B8A26-564F-4B6C-BC1D-B5852666588C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4B8A26-564F-4B6C-BC1D-B5852666588C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4B8A26-564F-4B6C-BC1D-B5852666588C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7507243-4EC8-40C3-8402-32B09BE3AC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7507243-4EC8-40C3-8402-32B09BE3AC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7507243-4EC8-40C3-8402-32B09BE3AC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7507243-4EC8-40C3-8402-32B09BE3AC68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C87AA8B-EDD0-4D34-97D1-7C2328D997FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C87AA8B-EDD0-4D34-97D1-7C2328D997FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C87AA8B-EDD0-4D34-97D1-7C2328D997FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C87AA8B-EDD0-4D34-97D1-7C2328D997FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B46D9A-E4F5-4372-9697-C20AB60C1FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B46D9A-E4F5-4372-9697-C20AB60C1FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B46D9A-E4F5-4372-9697-C20AB60C1FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B46D9A-E4F5-4372-9697-C20AB60C1FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F571033A-3925-4AD5-9744-D5071D14645D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F571033A-3925-4AD5-9744-D5071D14645D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F571033A-3925-4AD5-9744-D5071D14645D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F571033A-3925-4AD5-9744-D5071D14645D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
