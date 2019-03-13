@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\bin\Debug\netcoreapp2.1\Spring Vacation Trip.deps.json
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\bin\Debug\netcoreapp2.1\Spring Vacation Trip.runtimeconfig.json
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\bin\Debug\netcoreapp2.1\Spring Vacation Trip.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\bin\Debug\netcoreapp2.1\Spring Vacation Trip.dll
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\bin\Debug\netcoreapp2.1\Spring Vacation Trip.pdb
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\obj\Debug\netcoreapp2.1\Spring Vacation Trip.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\obj\Debug\netcoreapp2.1\Spring Vacation Trip.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\obj\Debug\netcoreapp2.1\Spring Vacation Trip.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\obj\Debug\netcoreapp2.1\Spring Vacation Trip.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\obj\Debug\netcoreapp2.1\Spring Vacation Trip.dll
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Spring Vacation Trip\obj\Debug\netcoreapp2.1\Spring Vacation Trip.pdb

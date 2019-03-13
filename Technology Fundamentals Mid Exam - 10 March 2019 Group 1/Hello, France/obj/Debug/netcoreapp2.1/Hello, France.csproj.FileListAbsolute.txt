@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.deps.json
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.runtimeconfig.json
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.dll
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\bin\Debug\netcoreapp2.1\Hello, France.pdb
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.dll
+C:\Users\Admin\Desktop\Technology Fundamentals Mid Exam - 10 March 2019 Group 1\Hello, France\obj\Debug\netcoreapp2.1\Hello, France.pdb
