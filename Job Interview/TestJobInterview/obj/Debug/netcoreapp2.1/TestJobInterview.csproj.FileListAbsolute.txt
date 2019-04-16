@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\bin\Debug\netcoreapp2.1\TestJobInterview.deps.json
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\bin\Debug\netcoreapp2.1\TestJobInterview.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\bin\Debug\netcoreapp2.1\TestJobInterview.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\bin\Debug\netcoreapp2.1\TestJobInterview.dll
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\bin\Debug\netcoreapp2.1\TestJobInterview.pdb
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\obj\Debug\netcoreapp2.1\TestJobInterview.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\obj\Debug\netcoreapp2.1\TestJobInterview.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\obj\Debug\netcoreapp2.1\TestJobInterview.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\obj\Debug\netcoreapp2.1\TestJobInterview.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\obj\Debug\netcoreapp2.1\TestJobInterview.dll
+C:\Users\Admin\Desktop\Programming\Files\TestJobInterview\obj\Debug\netcoreapp2.1\TestJobInterview.pdb
