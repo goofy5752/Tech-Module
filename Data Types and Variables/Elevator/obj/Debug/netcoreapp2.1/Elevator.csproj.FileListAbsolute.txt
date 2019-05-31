@@ -1,0 +1,10 @@
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\bin\Debug\netcoreapp2.1\Elevator.deps.json
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\bin\Debug\netcoreapp2.1\Elevator.runtimeconfig.json
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\bin\Debug\netcoreapp2.1\Elevator.runtimeconfig.dev.json
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\bin\Debug\netcoreapp2.1\Elevator.dll
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\bin\Debug\netcoreapp2.1\Elevator.pdb
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\obj\Debug\netcoreapp2.1\Elevator.csproj.CoreCompileInputs.cache
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\obj\Debug\netcoreapp2.1\Elevator.AssemblyInfoInputs.cache
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\obj\Debug\netcoreapp2.1\Elevator.AssemblyInfo.cs
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\obj\Debug\netcoreapp2.1\Elevator.dll
+D:\Programming\Software University\Tech-Module\Data Types and Variables\Elevator\obj\Debug\netcoreapp2.1\Elevator.pdb

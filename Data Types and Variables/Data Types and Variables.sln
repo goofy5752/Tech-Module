@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2015
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice Integer Numbers", "Practice Integer Numbers\Practice Integer Numbers.csproj", "{6D464397-6CDA-4B56-BE10-1963C38A1A05}"
 EndProject
@@ -41,15 +41,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comparing Floats", "Compari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thea the Photographer", "Thea the Photographer\Thea the Photographer.csproj", "{17FACA47-2746-47E7-B5B3-68327792A172}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poke Mon", "Poke Mon\Poke Mon.csproj", "{2B4B8A26-564F-4B6C-BC1D-B5852666588C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poke Mon", "Poke Mon\Poke Mon.csproj", "{2B4B8A26-564F-4B6C-BC1D-B5852666588C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resurrection", "Resurrection\Resurrection.csproj", "{A7507243-4EC8-40C3-8402-32B09BE3AC68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resurrection", "Resurrection\Resurrection.csproj", "{A7507243-4EC8-40C3-8402-32B09BE3AC68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WormTest", "WormTest\WormTest.csproj", "{6C87AA8B-EDD0-4D34-97D1-7C2328D997FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WormTest", "WormTest\WormTest.csproj", "{6C87AA8B-EDD0-4D34-97D1-7C2328D997FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet Wings", "Hornet Wings\Hornet Wings.csproj", "{C6B46D9A-E4F5-4372-9697-C20AB60C1FC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hornet Wings", "Hornet Wings\Hornet Wings.csproj", "{C6B46D9A-E4F5-4372-9697-C20AB60C1FC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Downsite", "Anonymous Downsite\Anonymous Downsite.csproj", "{F571033A-3925-4AD5-9744-D5071D14645D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anonymous Downsite", "Anonymous Downsite\Anonymous Downsite.csproj", "{F571033A-3925-4AD5-9744-D5071D14645D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{E40DC703-F56D-456C-9B7C-4D895DCC6BF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{F571033A-3925-4AD5-9744-D5071D14645D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F571033A-3925-4AD5-9744-D5071D14645D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F571033A-3925-4AD5-9744-D5071D14645D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40DC703-F56D-456C-9B7C-4D895DCC6BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40DC703-F56D-456C-9B7C-4D895DCC6BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40DC703-F56D-456C-9B7C-4D895DCC6BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40DC703-F56D-456C-9B7C-4D895DCC6BF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
